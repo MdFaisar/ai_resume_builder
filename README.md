@@ -1,4 +1,5 @@
 # AI-Powered Resume Builder & Career Guidance Platform
+![image alt](https://github.com/MdFaisar/ai_resume_builder/blob/main/Screenshot%20(39).png?raw=true)
 
 ## Project Overview
 
@@ -27,7 +28,7 @@ This is a Flask-based web application that leverages AI to help users generate p
 - Python 3.8+
 - pip (Python Package Manager)
 - A Groq API Key
-
+  ![image alt](https://github.com/MdFaisar/ai_resume_builder/blob/main/Screenshot%20(40).png?raw=true)
 ## Installation Steps
 
 1. Extract the Project Zip File
@@ -68,7 +69,7 @@ python run.py  # Creates the database via db.create_all()
 ```bash
 python run.py
 ```
-
+![image alt](https://github.com/MdFaisar/ai_resume_builder/blob/main/Screenshot%20(41).png?raw=true)
 ## Environment Setup Notes
 
 - Ensure you have a Groq API key
